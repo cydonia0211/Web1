@@ -1,0 +1,42 @@
+<!doctype html>
+<html>
+  <head>
+    <title>WEB1 - html</title>
+    <meta charset="utf-8">
+  </head>
+
+  <body>
+    <strong>
+    <ol>
+      <li>HTML</li>
+      <li>CSS</li>
+      <li>JavaScript</li>
+    </ol>
+    </strong>
+
+    <ul>
+      <li>HTML</li>
+      <li>CSS</li>
+      <li>JavaScript</li>
+    </ul>
+
+    <h1>HTML이란 무엇인가?</h1>
+
+    <p>
+    <a href="https://www.w3.org/TR/html51/" target="_blank"
+    title="html5 specificaition">This paragraph</a>
+    <u>contains a lot of lines</u>
+    <strong>in the source code</strong>,
+    but the browser
+    ignores it.
+    </p>
+     <img src="stephan-valentin-oqYLdbuJDQU-unsplash.jpg" width="350">
+    <p>
+    This paragraph
+    contains a lot of spaces
+    in the source code,
+    but the browser
+    ignores it.
+    </p>
+  </body>
+</html>
